@@ -1,7 +1,7 @@
 # BlockedPaywall
 
-<p>Kjo detyre permban nje reprezentim te garave F1 nder vite (2009 - 2019).</p>
-<p>Paraqiten fituesit dhe kampioni i pergjithshem i vitit si dhe detajet per secilin prej pjestareve te paraqitur.</p>
+Kjo detyre permban nje reprezentim te garave F1 nder vite (2009 - 2019).
+Paraqiten fituesit dhe kampioni i pergjithshem i vitit si dhe detajet per secilin prej pjestareve te paraqitur.
 
 # Manuali
 
